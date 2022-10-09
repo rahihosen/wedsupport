@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('assets/images/logo.png')); ?>" alt=""><?php /**PATH C:\laragon\www\wed\resources\views/vendor/jetstream/components/authentication-card-logo.blade.php ENDPATH**/ ?>
